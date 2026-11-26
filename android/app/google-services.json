@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455937545325",
+    "project_id": "authentiscan-ff583",
+    "storage_bucket": "authentiscan-ff583.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455937545325:android:46549c56df769b86c2db64",
+        "android_client_info": {
+          "package_name": "com.example.authentiscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVquTbYHoYur2EZi9iTGKTiBzKQXxcZF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
